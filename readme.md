@@ -5,3 +5,7 @@
 [To read my blog, click here.](https://wyattscarpenter.github.io/blog)
 
 [Fullwidth text converter. (Ｆｕｌｌｗｉｄｔｈ　ｔｅｘｔ　ｃｏｎｖｅｒｔｅｒ．)](https://wyattscarpenter.github.io/fullwidth/)
+
+[Dnd-style dice roller.](https://wyattscarpenter.github.io/nicedice/)
+
+[Edit this page.](https://github.com/wyattscarpenter/wyattscarpenter.github.io)
