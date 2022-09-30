@@ -8,4 +8,6 @@
 
 [Dnd-style dice roller.](https://wyattscarpenter.github.io/nicedice/)
 
+[Wordcounter.](https://wyattscarpenter.github.io/wordcounter)
+
 [Edit this page.](https://github.com/wyattscarpenter/wyattscarpenter.github.io)
