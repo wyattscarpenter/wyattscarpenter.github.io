@@ -18,4 +18,8 @@ Here are some useful tools / fun projects I've made:
 
 * [Toki Pona Gloss Tool.](https://wyattscarpenter.github.io/toki-pona-gloss-tool)
 
+Like what you see? You can contact me:
+
+* [Contact](contact.md)
+
 <style> p { text-indent: 2em; font-family: garamond, georgia, times, serif, monospace; line-height: 1.2; } /* This line is merely to style the page correctly in systems that respect such styling; it has no semantic meaning otherwise. */ </style>
