@@ -30,7 +30,7 @@ Payment should generally be in advance. Discount rates may be available for frie
 
 You may also email me about full-time or long-term employment opportunities.
 
-# Dating
+## Dating
 
 If you're interested in dating me, email me.
 
