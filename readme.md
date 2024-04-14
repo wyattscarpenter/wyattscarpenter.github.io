@@ -22,4 +22,4 @@ Like what you see? You can contact me:
 
 * [Contact.](contact.md)
 
-<style> p { text-indent: 2em; line-height: 1.2; } * {font-family: garamond, georgia, times, serif, monospace;} /* This line is merely to style the page correctly in systems that respect such styling; it has no semantic meaning otherwise. */ </style>
+<link rel="stylesheet" type="text/css" href="/style.css" /> <!-- This line is merely to style the page correctly in systems that respect such styling; it has no semantic meaning otherwise. -->
