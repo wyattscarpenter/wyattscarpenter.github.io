@@ -18,6 +18,12 @@ Here are some useful tools / fun projects I've made:
 
 * [Toki Pona Gloss Tool.](https://wyattscarpenter.github.io/toki-pona-gloss-tool)
 
+I have also published my software projects on package managers sometimes:
+
+* [Python.](https://pypi.org/user/wyattscarpenter/)
+
+* [Javascript.](https://www.npmjs.com/~wyattscarpenter)
+
 Like what you see? You can contact me:
 
 * [Contact.](contact.md)
