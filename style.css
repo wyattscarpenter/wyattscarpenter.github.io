@@ -1,2 +1,8 @@
 p { text-indent: 2em; line-height: 1.2; }
 * {font-family: garamond, georgia, times, serif, monospace;}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
