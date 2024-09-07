@@ -6,3 +6,5 @@ p { text-indent: 2em; line-height: 1.2; }
     color: white;
   }
 }
+// This is how I usually invoke the style sheet:
+// <link rel="stylesheet" type="text/css" href="/style.css" /> <!-- This line is merely to style the page correctly in systems that respect such styling; it has no semantic meaning otherwise. -->
