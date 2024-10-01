@@ -1,6 +1,6 @@
 # Contacting me
 
-<style> p { text-indent: 2em; line-height: 1.2; } * {font-family: garamond, georgia, times, serif, monospace;} /* This line is merely to style the page correctly in systems that respect such styling; it has no semantic meaning otherwise. */ </style>
+<link rel="stylesheet" type="text/css" href="/style.css" /> <!-- This line is merely to style the page correctly in systems that respect such styling; it has no semantic meaning otherwise. -->
 
 I have deliberately not included any contact information on this page in order to create a small barrier to sending me communications, because in general I already have too many of them! However, it may be possible for you to figure out how to contact me, and contact me about:
 
