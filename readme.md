@@ -18,7 +18,7 @@ Here are some useful tools / fun projects I've made, which you can use in your w
 
 * [Toki Pona Gloss Tool.](https://wyattscarpenter.github.io/toki-pona-gloss-tool)
 
-* [Fedor Polyanskiy soundboard.](fedboard)
+* [Fedor Polyanskiy soundboard.](https://wyattscarpenter.github.io/fedboard)
 
 I have also published my software projects on package managers sometimes:
 
