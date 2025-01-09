@@ -30,4 +30,8 @@ Like what you see? You can contact me:
 
 * [Contact.](contact.md)
 
+Occasionally, I make games. You may view my gameography:
+
+* [Gameography.](gameography.md)
+
 <link rel="stylesheet" type="text/css" href="/style.css" /> <!-- This line is merely to style the page correctly in systems that respect such styling; it has no semantic meaning otherwise. -->
