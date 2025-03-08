@@ -17,5 +17,6 @@
 * Wyatt's Simpler Mod (Word Factori mod, pending)
 * Super Scratch Bros (Scratch, pending)
 * Super Smash Blows (double pending)
+* Vampire Jivers (text-based incremental game, Jai)
 * Chadsweeper (minesweeper, Pico-8)
-* Spacedship (bullet hell spaceship game, LÖVE2D (forthcoming)
+* Spacedship (bullet hell spaceship game, LÖVE2D (forthcoming))
