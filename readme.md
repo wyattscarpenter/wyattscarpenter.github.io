@@ -8,6 +8,10 @@ Delightful software projects, you say...?
 
 * [Edit this page.](https://github.com/wyattscarpenter/wyattscarpenter.github.io)
 
+“Standards” I have “specified”:
+
+* [Clarified Semver](https://github.com/wyattscarpenter/wyattscarpenter.github.io/clarified-semver) and the related [Wemver](https://github.com/wyattscarpenter/wyattscarpenter.github.io/wemver).
+
 Here are some useful tools / fun projects I've made, which you can use in your web browser:
 
 * [To play quiplibre, click here.](https://wyattscarpenter.github.io/quiplibre)
