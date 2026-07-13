@@ -10,7 +10,7 @@ Delightful software projects, you say...?
 
 “Standards” I have “specified”:
 
-* [Clarified Semver](https://github.com/wyattscarpenter/wyattscarpenter.github.io/clarified-semver) and the related [Wemver](https://github.com/wyattscarpenter/wyattscarpenter.github.io/wemver).
+* [Clarified Semver](https://wyattscarpenter.github.io/clarified-semver) and the related [Wemver](https://github.com/wyattscarpenter.github.io/wemver).
 
 Here are some useful tools / fun projects I've made, which you can use in your web browser:
 
